@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @de3r-51
 - 👀 ola eu sou o de3r estou interessado em aprender o máximo possível sobre programação e tudo mais
-- 🌱 estou estudando phyon
+- 🌱 estou estudando phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
